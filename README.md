@@ -1,4 +1,4 @@
-<!DO TYPE html>
+<!DOCTYPE html>
 <html lang="en">
  <head>
   <title>Facebook – log in or sign up</title>
